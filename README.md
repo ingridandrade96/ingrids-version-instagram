@@ -1,10 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando a tela inicial do Instagram :computer: 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Desafio de projeto CSS/Flexbox da plataforma DIO para recriação da tela inicial do Instagram.
 
-### Os requisitos são:
+##### Alterações realizadas:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- Imagem de perfil;
+- Usuário;
+- Inclusão do rodapé.
 
-## 🚀 Let's code! 🚀
+## 
